@@ -1,8 +1,7 @@
 streamlit
-opencv-python
+tensorflow==2.19.0
 numpy
+pillow
+opencv-python-headless
+matplotlib
 scikit-learn
-joblib
-tensorflow
-shutil
-os
